@@ -1,1 +1,1 @@
-The code of learning Numpy and Pandas.
+在网站上学习了Pandas和Numpy,通过代码来练习一下。
